@@ -1,0 +1,38 @@
+bluetooth/host/config/ble_globals.o bluetooth/host/config/ble_globals.d: \
+ ../bluetooth/host/config/ble_globals.c \
+ D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_general.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\OSAbstraction\Interface/fsl_os_abstraction.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\OSAbstraction\Interface/fsl_os_abstraction_config.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_constants.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_utils.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_sig_defines.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/att_errors.h \
+ ../bluetooth/host/config/ble_config.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\ModuleInfo/ModuleInfo.h
+
+D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_general.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\OSAbstraction\Interface/fsl_os_abstraction.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\OSAbstraction\Interface/fsl_os_abstraction_config.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_constants.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_utils.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/ble_sig_defines.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\bluetooth\host\interface/att_errors.h:
+
+../bluetooth/host/config/ble_config.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\ModuleInfo/ModuleInfo.h:

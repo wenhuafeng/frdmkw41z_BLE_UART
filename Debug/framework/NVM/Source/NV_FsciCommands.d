@@ -1,0 +1,24 @@
+framework/NVM/Source/NV_FsciCommands.o \
+ framework/NVM/Source/NV_FsciCommands.d: \
+ ../framework/NVM/Source/NV_FsciCommands.c \
+ D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Messaging\Interface/Messaging.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Lists/GenericList.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\MemManager\Interface/MemManager.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\NVM\Interface/NVM_Interface.h
+
+D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Messaging\Interface/Messaging.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Lists/GenericList.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\MemManager\Interface/MemManager.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\NVM\Interface/NVM_Interface.h:

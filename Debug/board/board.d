@@ -1,0 +1,88 @@
+board/board.o board/board.d: ../board/board.c \
+ D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/fsl_device_registers.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/MKW41Z4.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cm0plus.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cmInstr.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/cmsis_gcc.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cmFunc.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/system_MKW41Z4.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/MKW41Z4_features.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_common.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_clock.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_common.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_clock.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_smc.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\utilities/fsl_debug_console.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_pmc.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_port.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_adc16.h \
+ ../board/board.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_gpio.h \
+ ../board/pin_mux.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\GPIO/GPIO_Adapter.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\RNG\Interface/RNG_Interface.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Flash\Internal/Flash_Adapter.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_flash.h \
+ ../board/clock_config.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h \
+ D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Keyboard\Interface/Keyboard.h
+
+D:/MCUXpressoIDE_workspace/frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05/source/app_preinclude.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\common/EmbeddedTypes.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/fsl_device_registers.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/MKW41Z4.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cm0plus.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cmInstr.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/cmsis_gcc.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/core_cmFunc.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/system_MKW41Z4.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\CMSIS/MKW41Z4_features.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_common.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_clock.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_common.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_clock.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_smc.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\utilities/fsl_debug_console.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_pmc.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_port.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_adc16.h:
+
+../board/board.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_gpio.h:
+
+../board/pin_mux.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\GPIO/GPIO_Adapter.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\RNG\Interface/RNG_Interface.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Flash\Internal/Flash_Adapter.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\drivers/fsl_flash.h:
+
+../board/clock_config.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\FunctionLib/FunctionLib.h:
+
+D:\MCUXpressoIDE_workspace\frdmkw41z_wireless_examples_bluetooth_wireless_uart_freertos_05\framework\Keyboard\Interface/Keyboard.h:
